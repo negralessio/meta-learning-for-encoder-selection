@@ -4,9 +4,9 @@ This repository contains our project of the phase 2 of the **Practical Course: D
 ## Group Members 👤 
 | Forename | Surname  | Matr.#  |
 |----------|----------|---------|
-| Nina     | Mertins  | 2107539 |
-| Kevin    | Hartmann | 1996265 |
-| Alessio  | Negrini  | 2106547 |
+| Nina     | Mertins  | xxxxxxx |
+| Kevin    | Hartmann | xxxxxxx |
+| Alessio  | Negrini  | xxxxxxx |
 
 ## Folder Structure 🗂️
 ```
